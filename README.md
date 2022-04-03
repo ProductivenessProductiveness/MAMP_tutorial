@@ -1,5 +1,5 @@
 # MAMP_tutorial
 webserver起動.  
-MAMPのhtcocsフォルダにhtmlファイルやphpファイルを配置する.  
+MAMPのhtdocsフォルダにhtmlファイルやphpファイルを配置する.  
 ブラウザでlocalhost:8888/○○○.html.  
  
